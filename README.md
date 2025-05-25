@@ -1,6 +1,6 @@
 # My Portfolio
 
-## 👋 Hello! I'm [Your Name]
+## 👋 Hello! I'm Napat Rakchua
 
 A passionate developer/designer creating amazing digital experiences.
 

@@ -45,4 +45,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by [Napat Rakchua]
+Made with ❤️ by Napat Rakchua

@@ -118,17 +118,4 @@ A recent Computer Science graduate with a passion for continuous learning.
 
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
 
-## 💼 Core Competencies
-
-- **Full-Stack Web Development** - End-to-end application development
-- **Mobile App Development** - Cross-platform mobile applications
-- **Game Development** - 3D game development with Unreal Engine
-- **Machine Learning** - Data analysis and predictive modeling
-- **Database Design** - Relational and NoSQL database management
-- **UI/UX Design** - User interface and experience design
-- **Version Control** - Git workflow and collaborative development
-- **Problem Solving** - Analytical thinking and debugging
-- **Team Collaboration** - Agile development and teamwork
-- ***
-
 Made by Napat Rakchua

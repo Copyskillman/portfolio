@@ -10,25 +10,25 @@ A recent Computer Science graduate with a passion for continuous learning.
 
 - A team project developed using React Native in Expo with Node.js backend and MongoDB database. Designed to help organizations or communities manage borrowed items efficiently.
 - Technologies used: React Native, Expo, Node.js, MongoDB
-- [Live Demo](https://snack.expo.dev/@copyskillman/mobile_app) | [Source Code](https://github.com/napat-rakchua/asset-borrowing-app)
+- [Live Demo](https://snack.expo.dev/@copyskillman/mobile_app) | [Source Code](https://snack.expo.dev/@copyskillman/mobile_app)
 
 ### Project 2: GoomIsekai Game ✅ Completed
 
 - A first-person shooter (FPS) game currently in development by Unreal Engine 5.
 - Technologies used: Unreal Engine 5, Game Development, FPS
-- [Live Demo](https://gamejolt.com/games/GoomIsekai/884455) | [Source Code](https://github.com/napat-rakchua/goomisekai-game)
+- [Live Demo](https://gamejolt.com/games/GoomIsekai/884455)
 
 ### Project 3: Predict Letter ✅ Completed
 
 - A machine learning project that predicts handwritten Thai letters (ก to ฮ) using k-Nearest Neighbors (k-NN) and Decision Trees algorithms. Compares the effectiveness of both approaches.
 - Technologies used: Python, Machine Learning, k-NN, Decision Trees
-- [Live Demo](https://colab.research.google.com/drive/16RvUmvB5AyAmRpM0a4G0ZYWTfufKuZIf?usp=sharing) | [Source Code](https://github.com/napat-rakchua/predict-letter)
+- [Live Demo](https://colab.research.google.com/drive/16RvUmvB5AyAmRpM0a4G0ZYWTfufKuZIf?usp=sharing) | [Source Code](https://colab.research.google.com/drive/16RvUmvB5AyAmRpM0a4G0ZYWTfufKuZIf?usp=sharing)
 
 ### Project 4: Todo List
 
 - This project is a Vue.js-based web application that replicates the core features of Notion's Todo List template.
 - Technologies used: Vue.js, TypeScript
-- [Source Code](https://github.com/napat-rakchua/predict-letter)
+- [Source Code](https://github.com/Copyskillman/ToDoList)
 
 ### Project 5: Fitness 🟡 In Development
 

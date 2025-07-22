@@ -8,7 +8,7 @@ A recent Computer Science graduate with a passion for continuous learning.
 
 **Visit my portfolio website:** [https://napat-port.web.app/](https://napat-port.web.app/)
 
-Experience my work and projects in an interactive, responsive web application built with Next.js and modern web technologies.
+Experience my work and projects in an interactive, responsive web application built with Next.js .
 
 ## 🚀 Featured Projects
 

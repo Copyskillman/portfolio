@@ -4,6 +4,12 @@
 
 A recent Computer Science graduate with a passion for continuous learning.
 
+## 🌐 Live Portfolio
+
+**Visit my portfolio website:** [https://napat-port.web.app/](https://napat-port.web.app/)
+
+Experience my work and projects in an interactive, responsive web application built with Next.js and modern web technologies.
+
 ## 🚀 Featured Projects
 
 ### Project 1: Asset Borrowing App ✅ Completed

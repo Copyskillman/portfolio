@@ -364,7 +364,7 @@ export default function Home() {
               >
                 <a href="/FJ_Napat_Rakchua.pdf" download="FJ_Napat_Rakchua.pdf">
                   <Download size={16} />
-                  Download Resume
+                  Download CV
                 </a>
               </Button>
             </div>

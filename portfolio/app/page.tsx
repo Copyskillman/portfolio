@@ -168,6 +168,27 @@ const skills = [
       "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg",
     category: "Design",
   },
+  {
+    id: "22",
+    name: "C#",
+    image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg",
+    category: "Computer Languages",
+  },
+  {
+    id: "23",
+    name: "Vue.js",
+    image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+    category: "Frameworks & Libraries",
+  },
+  {
+    id: "24",
+    name: "Tailwind CSS",
+    image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+    category: "Frameworks & Libraries",
+  },
 ];
 
 const projects = [

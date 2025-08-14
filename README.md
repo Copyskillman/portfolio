@@ -2,13 +2,13 @@
 
 ## 👋 Hello! I'm Napat Rakchua
 
-A recent Computer Science graduate with a passion for continuous learning.
+A recent Computer Science graduate with a passion for continuous learning, who is always curious about new development tools and enjoys experimenting with them. Adept at understanding and applying modern development principles to improve efficiency.
 
 ## 🌐 Live Portfolio
 
 **Visit my portfolio website:** [https://napat-port.web.app/](https://napat-port.web.app/)
 
-Experience my work and projects in an interactive, responsive web application built with Next.js .
+Experience my work and projects in an interactive, responsive web application built with Next.js and deployed using Firebase Hosting with GitHub Actions CI/CD.
 
 ## 🚀 Featured Projects
 
@@ -51,30 +51,44 @@ Experience my work and projects in an interactive, responsive web application bu
 - Web application for displaying 7-segment numbers, enhancing user interaction and experience.
 - Technologies used: React.js, Node.js, GEMINI API, Express
 
+### Project 8: Personal Portfolio Website ✅ Completed
+
+- A modern, responsive portfolio website showcasing my skills, projects, and professional experience. Features interactive skill filtering, project galleries, and contact forms with a clean, professional design.
+- Technologies used: Next.js, React, Tailwind CSS, TypeScript, Firebase Hosting, GitHub Actions
+- [Source Code](https://github.com/Copyskillman/portfolio)
+
 ## 🛠️ Technologies & Tools
 
 ### Frontend Development
 
-- **Languages:** JavaScript, HTML5, CSS3
-- **Frameworks/Libraries:** React, Bootstrap
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks/Libraries:** React, Next.js, Vue.js, Bootstrap, Tailwind CSS
 - **Mobile:** React Native
 
 ### Backend Development
 
-- **Languages:** Node.js, Python, PHP, Java
-- **Frameworks:** Django, Express
+- **Languages:** Node.js, Python, PHP, Java, C#
+- **Frameworks:** Django, .NET Core Web API(Basic), Express
 
 ### Database Technologies
 
 - **Relational:** MySQL, Oracle
 - **NoSQL:** MongoDB
 - **Graph:** Neo4j
+- **Tools:** DBeaver
+
+### Cloud & Deployment
+
+- **Cloud Services:** AWS
+- **Containerization:** Docker
+- **CI/CD:** GitHub Actions
+- **Hosting:** Firebase
 
 ### Development Tools
 
 - **Version Control:** Git, GitHub, GitLab
-- **Containerization:** Docker
 - **Design:** Figma
+- **Database Management:** DBeaver
 
 ### Game Development
 
@@ -90,14 +104,19 @@ Experience my work and projects in an interactive, responsive web application bu
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 ### Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ### Databases
 
@@ -112,15 +131,18 @@ Experience my work and projects in an interactive, responsive web application bu
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA326?style=flat-square&logo=gitlab&logoColor=white)
 
-### Deployment
+### Deployment & Cloud
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Design
+### Tools
 
+![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### Game Dev
+### Game Development
 
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
 

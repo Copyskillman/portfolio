@@ -189,6 +189,41 @@ const skills = [
       "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
     category: "Frameworks & Libraries",
   },
+  {
+    id: "25",
+    name: "Next.js",
+    image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
+    category: "Frameworks & Libraries",
+  },
+  {
+    id: "26",
+    name: "DBeaver",
+    image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg",
+    category: "Tools",
+  },
+  {
+    id: "27",
+    name: "AWS",
+    image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+    category: "Deployment",
+  },
+  {
+    id: "28",
+    name: ".NET Core Web API",
+    image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg",
+    category: "Frameworks & Libraries",
+  },
+  {
+    id: "29",
+    name: "CI/CD",
+    image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg",
+    category: "Deployment",
+  },
 ];
 
 const projects = [
@@ -267,6 +302,17 @@ const projects = [
     image: "/7seg.png",
     tags: ["React.js", "Node.js", "GEMINI API"],
     github: "#",
+    demo: "#",
+    status: "Completed",
+  },
+  {
+    id: "9",
+    title: "Shop.NET",
+    description:
+      "web application for displaying 7-segment numbers, enhancing user interaction and experience.",
+    image: "/store.png",
+    tags: ["C#", "ASP.NET CORE Web API"],
+    github: "https://github.com/Copyskillman/Shop.Net",
     demo: "#",
     status: "Completed",
   },
@@ -365,13 +411,10 @@ export default function Home() {
               Napat Rakchua
             </h1>
             <p className="text-lg text-muted-foreground mb-8 max-w-3xl leading-relaxed">
-              A recent Computer Science graduate with a passion for continuous
-              learning, who is always curious about new development tools and
-              enjoys experimenting with them. Adept at understanding and
-              applying modern development principles to improve efficiency. I am
-              seeking a Website Developer position in an innovative organization
-              where I can leverage new knowledge to build high-quality,
-              up-to-date software solutions.
+              I’m a recent Computer Science graduate who loves learning and
+              trying out new development tools. I'm looking for a Software
+              Developer role where I can use modern techniques to build useful
+              software.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 mb-8">
               <Button asChild size="lg" className="shadow-lg">
@@ -531,9 +574,10 @@ export default function Home() {
                                 <strong className="text-foreground">
                                   JSON to PDF Automation:
                                 </strong>{" "}
-                                Imported data from JSON files into PDF files
-                                using specialized libraries for working with PDF
-                                templates and generating new PDFs
+                                using React, Node.js, Pdfmake and Pdf-lib for
+                                Imported data from a JSON file into a PDF file
+                                using libraries for working with PDF templates
+                                and generating new PDFs
                               </span>
                             </li>
                             <li className="flex items-start gap-3">
@@ -543,8 +587,8 @@ export default function Home() {
                                   Web Application Development:
                                 </strong>{" "}
                                 Created a web application for displaying
-                                7-segment numbers, enhancing user interaction
-                                and experience
+                                7-segment numbers. using React , Node,js and
+                                GEMINI API
                               </span>
                             </li>
                           </ul>
@@ -555,6 +599,8 @@ export default function Home() {
                           <Badge variant="secondary">Web Development</Badge>
                           <Badge variant="secondary">JSON</Badge>
                           <Badge variant="secondary">UI/UX</Badge>
+                          <Badge variant="secondary">PDF-Lib</Badge>
+                          <Badge variant="secondary">PDF Make</Badge>
                         </div>
                       </div>
                     </div>
@@ -608,9 +654,10 @@ export default function Home() {
                                   Rehabilitation System:
                                 </strong>{" "}
                                 Developed the backend APIs using Django and
-                                Django REST Framework, streamlining the
-                                management of patient treatment plans, service
-                                orders, and appointments
+                                Django REST Framework for a comprehensive
+                                Rehabilitation System module In ERP System, to
+                                manage patient treatment plans, service orders,
+                                and appointments.
                               </span>
                             </li>
                           </ul>
@@ -625,6 +672,7 @@ export default function Home() {
                           <Badge variant="secondary">
                             Rehabilitation System
                           </Badge>
+                          <Badge variant="secondary">PyTest</Badge>
                         </div>
                       </div>
                     </div>

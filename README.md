@@ -51,11 +51,11 @@ Experience my work and projects in an interactive, responsive web application bu
 - Web application for displaying 7-segment numbers, enhancing user interaction and experience.
 - Technologies used: React.js, Node.js, GEMINI API, Express
 
-### Project 8: Personal Portfolio Website ✅ Completed
+### Project 8: Shop.NET ✅ Completed
 
-- A modern, responsive portfolio website showcasing my skills, projects, and professional experience. Features interactive skill filtering, project galleries, and contact forms with a clean, professional design.
-- Technologies used: Next.js, React, Tailwind CSS, TypeScript, Firebase Hosting, GitHub Actions
-- [Source Code](https://github.com/Copyskillman/portfolio)
+- Web application for displaying 7-segment numbers, enhancing user interaction and experience.
+- Technologies used: C#, ASP.NET Core Web API
+- [Source Code](https://github.com/Copyskillman/Shop.Net)
 
 ## 🛠️ Technologies & Tools
 
